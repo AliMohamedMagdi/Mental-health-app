@@ -12,4 +12,6 @@
 
 #to Run the project please follow the following
 
-#create firebase account
+#email me for firebase key
+
+#Run the Following commands
