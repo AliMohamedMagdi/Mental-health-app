@@ -14,7 +14,9 @@
 
 #to Run the project please follow the following
 
-#email me for firebase key ali.mohamed19@msa.edu.eg
+#the firebasw key is avalible in the project but the datasets are removed to reduce the file size.
+
+#email me for any inquiry: ali.mohamed19@msa.edu.eg
 
 #Run the Following commands
 
